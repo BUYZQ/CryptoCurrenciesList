@@ -19,4 +19,6 @@ Technologies:
 
 # Features app
 
+The application has two features that contain view, block and widgets,
+
 ![Features](https://github.com/BUYZQ/CryptoCurrenciesList/blob/main/ASSETS_README/features.png)
