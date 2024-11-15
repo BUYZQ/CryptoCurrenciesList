@@ -16,3 +16,7 @@ Technologies:
 # Project structure
 
 ![Structure](https://github.com/BUYZQ/CryptoCurrenciesList/blob/main/ASSETS_README/project_structure.png)
+
+# Features app
+
+![Features](https://github.com/BUYZQ/CryptoCurrenciesList/blob/main/ASSETS_README/features.png)
