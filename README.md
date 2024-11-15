@@ -11,6 +11,6 @@ Technologies:
 - auto_router
 
 
-![Auth](https://raw.githubusercontent.com/BUYZQ/ChatApplication/main/README_ASSETS/auth.jpg)
+![All screens](https://github.com/BUYZQ/CryptoCurrenciesList/blob/main/ASSETS_README/all_screens.png)
 
 ## Code 
