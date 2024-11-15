@@ -13,4 +13,6 @@ Technologies:
 
 ![All screens](https://github.com/BUYZQ/CryptoCurrenciesList/blob/main/ASSETS_README/all_screens.png)
 
-## Code 
+# Project structure
+
+![Structure](https://github.com/BUYZQ/CryptoCurrenciesList/blob/main/ASSETS_README/project_structure.png)
